@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb2ca96-cd36-45a0-8005-a04c84712fe9" name="Changes" comment="random" />
+    <list default="true" id="4eb2ca96-cd36-45a0-8005-a04c84712fe9" name="Changes" comment="random">
+      <change afterPath="$PROJECT_DIR$/Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HistoryPelanggan.java" beforeDir="false" afterPath="$PROJECT_DIR$/HistoryPelanggan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TambahOrder.form" beforeDir="false" afterPath="$PROJECT_DIR$/TambahOrder.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TambahOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/TambahOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TBO-final/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TBO-final/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TBO-final/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TBO-final/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TBO-final/Login$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TBO-final/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TBO-final/Menu$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TBO-final/Menu$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TBO-final/Menu$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TBO-final/Menu.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +34,32 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1674232395" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1674232394" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,7 +80,7 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "false",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
@@ -85,7 +126,8 @@
       <workItem from="1674177558783" duration="649000" />
       <workItem from="1674215373290" duration="3511000" />
       <workItem from="1674220232742" duration="152000" />
-      <workItem from="1674220787272" duration="10876000" />
+      <workItem from="1674220787272" duration="11048000" />
+      <workItem from="1674232577333" duration="1862000" />
     </task>
     <task id="LOCAL-00001" summary="random">
       <created>1674232326225</created>

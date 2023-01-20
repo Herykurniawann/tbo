@@ -48,7 +48,7 @@
           <text value="Kamera"/>
         </properties>
       </component>
-      <component id="25f58" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+      <component id="25f58" class="javax.swing.JTextField" binding="tfNama">
         <constraints>
           <grid row="2" column="2" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
@@ -56,7 +56,7 @@
         </constraints>
         <properties/>
       </component>
-      <component id="d5a7" class="javax.swing.JTextField" binding="textField2" default-binding="true">
+      <component id="d5a7" class="javax.swing.JTextField" binding="tfNIK">
         <constraints>
           <grid row="3" column="2" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
@@ -64,7 +64,7 @@
         </constraints>
         <properties/>
       </component>
-      <component id="95c99" class="javax.swing.JTextField" binding="textField3" default-binding="true">
+      <component id="95c99" class="javax.swing.JTextField" binding="tfAlamat">
         <constraints>
           <grid row="4" column="2" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
@@ -72,29 +72,31 @@
         </constraints>
         <properties/>
       </component>
-      <component id="aae7c" class="javax.swing.JTextField" binding="textField4" default-binding="true">
+      <component id="aae7c" class="javax.swing.JTextField" binding="tfNoTlpn">
         <constraints>
           <grid row="5" column="2" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value=""/>
+        </properties>
       </component>
-      <component id="35205" class="javax.swing.JComboBox" binding="comboBox1" default-binding="true">
+      <component id="35205" class="javax.swing.JComboBox" binding="cbKamera">
         <constraints>
           <grid row="6" column="2" row-span="1" col-span="2" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <model>
             <item value="Pilih Kamera"/>
-            <item value="kamera 1 "/>
-            <item value="kamera 2 "/>
+            <item value="kamera 1"/>
+            <item value="kamera 2"/>
             <item value="kamera 3"/>
             <item value="kamera 4"/>
           </model>
         </properties>
       </component>
-      <component id="93591" class="javax.swing.JRadioButton" binding="tambahRadioButton" default-binding="true">
+      <component id="93591" class="javax.swing.JRadioButton" binding="rdTambah">
         <constraints>
           <grid row="8" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
@@ -102,7 +104,7 @@
           <text value="Tambah"/>
         </properties>
       </component>
-      <component id="3e7f1" class="javax.swing.JRadioButton" binding="hapusRadioButton" default-binding="true">
+      <component id="3e7f1" class="javax.swing.JRadioButton" binding="rdHapus">
         <constraints>
           <grid row="8" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
@@ -264,7 +266,7 @@
           <text value="Lama Sewa (Hari)"/>
         </properties>
       </component>
-      <component id="e6b2a" class="javax.swing.JSpinner" binding="spinner1" default-binding="true">
+      <component id="e6b2a" class="javax.swing.JSpinner" binding="spLamaSewa">
         <constraints>
           <grid row="7" column="2" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
