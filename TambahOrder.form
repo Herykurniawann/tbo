@@ -89,10 +89,9 @@
         <properties>
           <model>
             <item value="Pilih Kamera"/>
-            <item value="kamera 1"/>
-            <item value="kamera 2"/>
-            <item value="kamera 3"/>
-            <item value="kamera 4"/>
+            <item value="EOS-1D X Mark III"/>
+            <item value="EOS 200D II (EF-S 18-55mm f/4-5.6 IS STM)"/>
+            <item value="EOS 3000D Kit (EF S18-55 III)"/>
           </model>
         </properties>
       </component>

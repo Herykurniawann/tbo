@@ -64,7 +64,7 @@
               <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <text value="Label"/>
+              <text value="Atha"/>
             </properties>
           </component>
           <component id="22c07" class="javax.swing.JLabel">
@@ -72,7 +72,7 @@
               <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <text value="Label"/>
+              <text value="EOS-1D X Mark III"/>
             </properties>
           </component>
           <component id="67f28" class="javax.swing.JLabel">
@@ -80,7 +80,7 @@
               <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <text value="Label"/>
+              <text value="Disewa"/>
             </properties>
           </component>
           <component id="71f67" class="javax.swing.JLabel">
@@ -88,7 +88,7 @@
               <grid row="2" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <text value="Label"/>
+              <text value="Dikembalikan"/>
             </properties>
           </component>
           <component id="f194e" class="javax.swing.JLabel">
@@ -96,7 +96,7 @@
               <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <text value="Label"/>
+              <text value="EOS 200D II (EF-S 18-55mm f/4-5.6 IS STM)"/>
             </properties>
           </component>
           <component id="396a6" class="javax.swing.JLabel">
@@ -104,7 +104,7 @@
               <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <text value="Label"/>
+              <text value="Dodi"/>
             </properties>
           </component>
           <component id="c1c53" class="javax.swing.JLabel">
@@ -120,7 +120,7 @@
               <grid row="3" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <text value="Label"/>
+              <text value="Dikembalikan"/>
             </properties>
           </component>
           <component id="fedde" class="javax.swing.JLabel">
@@ -128,7 +128,7 @@
               <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <text value="Label"/>
+              <text value="EOS 3000D Kit (EF S18-55 III)"/>
             </properties>
           </component>
           <component id="af198" class="javax.swing.JLabel">
@@ -136,7 +136,7 @@
               <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <text value="Label"/>
+              <text value="Rian"/>
             </properties>
           </component>
           <component id="fa743" class="javax.swing.JLabel">
