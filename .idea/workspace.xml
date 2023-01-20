@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb2ca96-cd36-45a0-8005-a04c84712fe9" name="Changes" comment="add pain">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CekOrderan.java" beforeDir="false" afterPath="$PROJECT_DIR$/CekOrderan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HistoryPelanggan.form" beforeDir="false" afterPath="$PROJECT_DIR$/HistoryPelanggan.form" afterDir="false" />
-    </list>
+    <list default="true" id="4eb2ca96-cd36-45a0-8005-a04c84712fe9" name="Changes" comment="add pain" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +112,7 @@
       <workItem from="1674215373290" duration="3511000" />
       <workItem from="1674220232742" duration="152000" />
       <workItem from="1674220787272" duration="11048000" />
-      <workItem from="1674232577333" duration="2864000" />
+      <workItem from="1674232577333" duration="3162000" />
     </task>
     <task id="LOCAL-00001" summary="random">
       <created>1674232326225</created>
